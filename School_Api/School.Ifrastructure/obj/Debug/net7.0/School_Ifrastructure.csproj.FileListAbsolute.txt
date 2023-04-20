@@ -1,0 +1,17 @@
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Ifrastructure.deps.json
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Ifrastructure.runtimeconfig.json
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Ifrastructure.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Ifrastructure.pdb
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Domain.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\bin\Debug\net7.0\School_Domain.pdb
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.csproj.AssemblyReference.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.AssemblyInfoInputs.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.AssemblyInfo.cs
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.csproj.CoreCompileInputs.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.csproj.CopyComplete
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\refint\School_Ifrastructure.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.pdb
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\School_Ifrastructure.genruntimeconfig.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Ifrastructure\obj\Debug\net7.0\ref\School_Ifrastructure.dll

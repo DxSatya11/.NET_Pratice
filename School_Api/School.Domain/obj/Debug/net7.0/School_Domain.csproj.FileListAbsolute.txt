@@ -1,0 +1,12 @@
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\bin\Debug\net7.0\School_Domain.deps.json
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\bin\Debug\net7.0\School_Domain.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\bin\Debug\net7.0\School_Domain.pdb
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.csproj.AssemblyReference.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.AssemblyInfoInputs.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.AssemblyInfo.cs
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.csproj.CoreCompileInputs.cache
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\refint\School_Domain.dll
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\School_Domain.pdb
+G:\DevosAzure\Training\Interns-BE\Satya\SchoolApi\School.Domain\obj\Debug\net7.0\ref\School_Domain.dll

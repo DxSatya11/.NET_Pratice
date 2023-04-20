@@ -1,0 +1,41 @@
+parameters:
+  - name: environment
+    type: string
+    values:
+      - dev
+      - test
+      - prod
+  - name: serviceConnection
+    type: string
+  - name: subscriptionId
+    type: string
+  - name: appType
+    type: string       
+
+stages:
+- stage: AppDeploy
+  displayName: '${{parameters.environment}}: app deployment'       
+
+  jobs:
+    - deployment: DeployApp
+      displayName: DeployApp
+      environment: App-${{parameters.environment}}
+      pool:
+       vmImage: 'windows-latest'
+      strategy:
+        runOnce:
+          deploy:
+            steps:
+              - download: current
+                artifact: drop
+                patterns: '**/*'
+              - task: AzureRmWebAppDeployment@4
+                displayName: 'Deploy : app-${{parameters.environment}}-as'
+                inputs:
+                  azureSubscription:  ${{parameters.serviceConnection}}
+                  WebAppName: 'Satya-webapp-dev'
+                  Package: '$(Pipeline.Workspace)/drop/**.zip'
+                  enableCustomDeployment: true
+                  DeploymentType: zipDeploy 
+                  RemoveAdditionalFilesFlag: true
+                  appType: 'webApp'
